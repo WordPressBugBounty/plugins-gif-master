@@ -2,7 +2,7 @@
 Contributors: deepakkite, mrking2201
 Tags: gif, animated gifs, giphy, tenor, tenor gifs, animated images, free gifs
 Requires at least: 6.0
-Tested up to: 6.4.2
+Tested up to: 6.8.1
 Stable tag: 1.0.1
 Requires PHP: 7.4
 License: GPLv2 or later
